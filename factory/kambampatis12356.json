@@ -1,0 +1,9 @@
+{
+	"name": "kambampatis12356",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1599f6f0-6326-4b6a-8010-8d168d481356",
+		"tenantId": "2d1ea684-8b47-41c9-a580-011ccdbb4953"
+	}
+}
